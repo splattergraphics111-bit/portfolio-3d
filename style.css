@@ -34,6 +34,12 @@ header h1 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-size: 2rem;
+  .eagle-lake-regular {
+  font-family: "Eagle Lake", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 }
 
 /* --- 3D Spline Container --- */
